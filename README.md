@@ -14,9 +14,9 @@ Este é o repositório do projeto da página web "Sobre" do Recanto dos Códigos
 Se você deseja contribuir para o projeto, siga os seguintes passos:
 
 * Faça um fork deste repositório.
-* Crie uma branch para suas modificações (ex: git checkout -b minhas-modificacoes).
-* Faça suas modificações e comita-las (ex: git commit -am 'Adicionando novas funcionalidades').
-* Envie suas modificações para o seu repositório forkado (ex: git push origin minhas-modificacoes).
+* Crie uma branch para suas modificações (ex: `git checkout -b minhas-modificacoes`).
+* Faça suas modificações e comita-las (ex: `git commit -am` 'Adicionando novas funcionalidades').
+* Envie suas modificações para o seu repositório forkado (ex: `git push origin minhas-modificacoes`).
 * Crie um pull request para o repositório original.
 
 ## Licença
