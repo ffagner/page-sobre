@@ -271,13 +271,22 @@ footer {
 /* Design Responsivo */
 /* Smartphone */
 @media (max-width: 414px) and (orientation: portrait) {
+  .container {
+    width: 100%;
+  }
   .sobre-container-img-txt,
   .container-comodidades,
   .container-img,
   .container-time {
     flex-direction: column;
   }
+  .navbar ul {
+    display: none;
+  }
 
+  .img-logo{
+    align-items: center;;
+  }
   .sobre-container-img-txt img.sobre-img,
   .container-comodidades img {
     width: 100%;
@@ -296,4 +305,18 @@ footer {
   .container-time {
     gap: 20px;
   }
+  .slogan {
+    display: none;
+  }
+  .titulo-h2 {
+    font-size: 40px;
+  }
+  .column-footer {
+    flex-direction: column;
+    
+  }
+  .centered {
+    
+    align-items: center;
+}
 }
